@@ -1,6 +1,6 @@
 # cnn-sound-classifier
 
-An application of convolutional neural networks (CNN) using Tensorflow Keras API. The purpose of the project is to classify the sounds of steps of two different people using CNNs, which doesn't sound very intuitive since CNNs are commonly used for image processing. The idea of this implementation is to use spectrograms of audio dataset, since spectrograms are images which can be better suited for training CNNs.
+An application of convolutional neural networks (CNN) using Tensorflow Keras API. The purpose of the project is to classify the sounds of steps of two different people using CNNs, which doesn't sound very intuitive since CNNs are commonly used for image processing. The idea of this implementation is to use spectrograms of audio as the dataset, since spectrograms are images which can be better suited for training CNNs.
 ![persona1_train_frames094](https://user-images.githubusercontent.com/34671846/215186820-98f86128-da31-466e-9cb1-0759b547b61f.png)
 
 The image above corresponds to the spectrogram of a 2 second audio of a person's steps.
